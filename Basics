@@ -1,0 +1,38 @@
+Q1. . How can you output “Physics” and “Wallah” in two different lines in C++?
+Answer: #include<iostream>
+using namespace std;
+int main(){
+  cout << "Physics" << endl << "Wallah";
+}
+Q2.  Write a program to print 10 using 2 positive numbers less than 6 in C++ as output.
+Answer: #include<iostream>
+using namespace std;
+int main(){
+  int x = 5;
+  cout << (x+=x);
+  
+}
+Q3. How much space does the following data types take
+1.int = 4 bytes
+2.bool = 1 byte
+3. float  = 8 bytes
+
+Q4.Predict the output 
+Answer: 6 4 
+
+Q5.  Write a program to find the circumference of a circle with radius 10 in C++.
+Answer: #include<iostream>
+using namespace std;
+int main(){
+    float radius = 10;
+    cout << "CIRCUMFERENCE OF CIRCLE IS: ";
+    cout << 2*3.14*radius;
+    
+}
+
+Q6.How many of these can be a vaiable name?
+Answer: Only three of these can be a variable name 
+_FLOAT
+int 
+FLOAT
+only these can be variable name 
