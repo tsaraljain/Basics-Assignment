@@ -15,7 +15,7 @@ int main(){
 Q3. How much space does the following data types take
 1.int = 4 bytes
 2.bool = 1 byte
-3. float  = 8 bytes
+3. float  = 4 bytes
 
 Q4.Predict the output 
 Answer: 6 4 
@@ -31,8 +31,7 @@ int main(){
 }
 
 Q6.How many of these can be a vaiable name?
-Answer: Only three of these can be a variable name 
+Answer: Only two of these can be a variable name 
 _FLOAT
-int 
 FLOAT
 only these can be variable name 
